@@ -1,0 +1,37 @@
+{
+  "name": "adobo-ui",
+  "description": "Adobo UI is a React Native component library",
+  "version": "0.0.1-beta",
+  "humanName": "Adobo UI",
+  "license": "MIT",
+  "main": "./lib/index.js",
+  "author": {
+    "name": "Audee Velasco",
+    "email": "audee@adooylabs.com"
+  },
+  "repository": "adooylabs/adobo-ui",
+  "keywords": [
+    "react",
+    "react-component",
+    "react-native",
+    "ui-kit"
+  ],
+  "scripts": {
+    "build": "babel src -d build"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.2.3",
+    "@babel/preset-react": "^7.0.0",
+    "babel-jest": "^23.6.0",
+    "eslint": "^5.11.1",
+    "prettier": "^1.15.3"
+  },
+  "dependencies": {
+    "babel-eslint": "^10.0.1",
+    "babel-preset-react-native": "^4.0.1",
+    "md5": "^2.2.1",
+    "react-native-vector-icons": "^6.1.0"
+  }
+}

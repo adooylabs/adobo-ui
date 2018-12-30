@@ -7,7 +7,7 @@ Adobo UI is a React Native component library. [Read more](http://www.adooylabs.c
 - Over 30 UI components
 - Customizable UI components
 - Works on **Web** thanks to [React Native for Web](https://github.com/necolas/react-native-web)
-- Jest [Snapshot Testing](http://facebook.github.io/jest/docs/snapshot-testing.html)
+> - Jest [Snapshot Testing](http://facebook.github.io/jest/docs/snapshot-testing.html)
 - Uses [Prettier](https://github.com/jlongster/prettier) an opinionated JavaScript formatter.
 - Uses [Yarn](https://yarnpkg.com/)
 
@@ -83,4 +83,4 @@ $ yarn run start:web
 
 ## License
 
-Adobo UI is open source and released under the [MIT License](https://github.com/avocode/nachos-ui/blob/master/LICENSE).
+Adobo UI is open source and released under the [MIT License](https://github.com/avocode/adobo-ui/blob/master/LICENSE).
